@@ -22,3 +22,6 @@
 [submodule "repo/plugin.video.themoviedb.helper"]
 	path = repo/plugin.video.themoviedb.helper
 	url = git@github.com:chraschi/plugin.video.themoviedb.helper.git
+[submodule "repo/script.embuary.info"]
+	path = repo/script.embuary.info
+	url = git@github.com:chraschi/script.embuary.info.git
