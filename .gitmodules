@@ -1,0 +1,3 @@
+[submodule "repo/plugin.video.xstream"]
+	path = repo/plugin.video.xstream
+	url = git@github.com:chraschi/plugin.video.xstream.git
