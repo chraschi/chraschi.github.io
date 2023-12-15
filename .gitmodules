@@ -1,7 +1,3 @@
 [submodule "repo/plugin.video.xstream"]
 	path = repo/plugin.video.xstream
 	url = git@github.com:chraschi/plugin.video.xstream.git
-	
-[submodule "repo/script.module.futures"]
-	path = repo/script.module.futures
-	url = git@github.com:LS80/script.module.futures.git
