@@ -13,3 +13,6 @@
 	path = repo/plugin.video.vavooto
 	url = git@github.com:chraschi/repo.git
 	branch = plugin.video.vavooto
+[submodule "repo/skin.embuary.chraschi"]
+	path = repo/skin.embuary.chraschi
+	url = git@github.com:chraschi/skin.embuary.chraschi.git
