@@ -11,3 +11,7 @@
 	path = submods
 	url = git@github.com:chraschi/repo.git
 	branch = main
+[submodule "repo/script.module.vavoo"]
+	path = repo/script.module.vavoo
+	url = git@github.com:chraschi/repo.git
+	branch = script.module.vavoo
