@@ -1,3 +1,15 @@
 [submodule "repo/plugin.video.xstream"]
 	path = repo/plugin.video.xstream
 	url = git@github.com:chraschi/plugin.video.xstream.git
+[submodule "repo/script.module.xstream"]
+	path = repo/script.module.xstream
+	url = git@github.com:chraschi/repo.git
+	branch = script.module.xstream
+[submodule "repo/script.module.vavoo"]
+	path = repo/script.module.vavoo
+	url = git@github.com:chraschi/repo.git
+	branch = script.module.vavoo
+[submodule "repo/plugin.video.vavooto"]
+	path = repo/plugin.video.vavooto
+	url = git@github.com:chraschi/repo.git
+	branch = plugin.video.vavooto
