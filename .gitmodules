@@ -7,3 +7,7 @@
 [submodule "repo/plugin.video.vavooto"]
 	path = repo/plugin.video.vavooto
 	url = git@github.com:chraschi/plugin.video.vavooto.git
+[submodule "submods"]
+	path = submods
+	url = git@github.com:chraschi/repo.git
+	branch = main
