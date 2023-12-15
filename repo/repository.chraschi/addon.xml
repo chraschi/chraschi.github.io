@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.chraschi" name="Chraschi's Repository" version="0.0.1" provider-name="chraschi">
+<addon id="repository.chraschi" name="Chraschi's Repository" version="0.0.2" provider-name="chraschi">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://chraschi.github.io/repo/zips/addons.xml</info>
