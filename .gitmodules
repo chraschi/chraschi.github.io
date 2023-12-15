@@ -16,3 +16,6 @@
 [submodule "repo/skin.embuary.chraschi"]
 	path = repo/skin.embuary.chraschi
 	url = git@github.com:chraschi/skin.embuary.chraschi.git
+[submodule "repo/script.embuary.helper"]
+	path = repo/script.embuary.helper
+	url = git@github.com:chraschi/script.embuary.helper.git
