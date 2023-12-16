@@ -25,3 +25,6 @@
 [submodule "repo/script.embuary.info"]
 	path = repo/script.embuary.info
 	url = git@github.com:chraschi/script.embuary.info.git
+[submodule "repo/script.module.jurialmunkey"]
+	path = repo/script.module.jurialmunkey
+	url = git@github.com:chraschi/script.module.jurialmunkey.git
