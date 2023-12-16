@@ -28,3 +28,6 @@
 [submodule "repo/script.module.jurialmunkey"]
 	path = repo/script.module.jurialmunkey
 	url = git@github.com:chraschi/script.module.jurialmunkey.git
+[submodule "repo/service.upnext"]
+	path = repo/service.upnext
+	url = git@github.com:chraschi/service.upnext.git
